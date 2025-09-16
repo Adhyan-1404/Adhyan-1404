@@ -35,7 +35,7 @@
 <a href="https://www.microsoft.com/power-platform/products/power-bi" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="power-bi" width="40" height="40" /> </a>
 <a href="https://office.com" target="_blank" rel="noreferrer">
-<img src="https://images.seeklogo.com/logo-png/26/2/excel-logo-png_seeklogo-266583.png" alt="excel" width="40" height="40" /> </a>
+<img src="https://images.seeklogo.com/logo-png/37/1/microsoft-excel-logo-png_seeklogo-370278.png" alt="excel" width="40" height="40" /> </a>
 <a href="https://icons8.com/icons/set/embedded-c-language" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Embedded-C.png" alt="embedded-c" width="40" height="40" /> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
