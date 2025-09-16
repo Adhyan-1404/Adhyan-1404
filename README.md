@@ -49,7 +49,7 @@
 <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" alt="anaconda" width="40" height="40" />
 </p>
 ‎
-<div style="display: flex; gap: 500px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhyan-1404&show_icons=true&locale=en" alt="Most Used Languages" />
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhyan-1404&show_icons=true&locale=en" alt="Most Used Languages" style="margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=adhyan-1404&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
