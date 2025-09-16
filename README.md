@@ -45,6 +45,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/960px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432" alt="google-colab" width="60" height="60" /> </a>
 <a href="https://jupyter.org" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40" /></a>
+<a href="https://www.anaconda.com" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Anaconda_logo.svg" alt="anaconda" width="40" height="40" />
 </p>
 
 
