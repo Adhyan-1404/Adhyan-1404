@@ -49,7 +49,4 @@
 <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" alt="anaconda" width="40" height="40" />
 </p>
 <br>‎
-<p> <span style="display:inline-block; vertical-align: top;"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhyan-1404&layout=compact&show_icons=true" /> </span> 
-<span style="display:inline-block; vertical-align: top; margin-left: 10px;"> <img src="https://github-readme-stats.vercel.app/api?username=adhyan-1404&show_icons=true" /> </span> </p>
-
+<table> <tr valign="top"> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhyan-1404&layout=compact&show_icons=true" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api?username=adhyan-1404&show_icons=true" /> </td> </tr> </table>
