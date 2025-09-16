@@ -49,7 +49,7 @@
 <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" alt="anaconda" width="40" height="40" />
 </p>
 ‎
-<div style="display: flex; gap: 20px; align-items: center;">
+<div style="display: flex; gap: 50px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhyan-1404&show_icons=true&locale=en" alt="Most Used Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=adhyan-1404&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
