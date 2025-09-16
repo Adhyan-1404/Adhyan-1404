@@ -50,6 +50,5 @@
 </p>
 ‎
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhyan-1404&show_icons=true" alt="Most Used Languages" style="margin-right: 60px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=adhyan-1404&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adhyan-1404&show_icons=true&theme=dark" alt="Adhyan Saxena's GitHub Stats" />
 </div>
