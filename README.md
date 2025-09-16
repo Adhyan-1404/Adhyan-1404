@@ -50,5 +50,5 @@
 </p>
 ‎
 <div style="display: flex; align-items: center;">
- <img src="https://metrics.lecoq.io/adhyan-1404?template=classic&base=header&config.timezone=Asia%2FKolkata" alt="Adhyan Saxena's Metrics" />
+ <img src="https://github-readme-stats.vercel.app/api?username=adhyan-1404&show_icons=true&theme=dark" alt="Adhyan Saxena's GitHub Stats" />
 </div>
