@@ -49,5 +49,7 @@
 <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" alt="anaconda" width="40" height="40" />
 </p>
 ‎
-![adhyan-1404](https://github-readme-stats.vercel.app/api/top-langs?username=adhyan-1404&show_icons=true&locale=en&layout=compact) ![adhyan-1404](https://github-readme-stats.vercel.app/api?username=adhyan-1404&show_icons=true&locale=en)
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhyan-1404&show_icons=true&locale=en&layout=compact" alt="adhyan-1404">
+<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=adhyan-1404&show_icons=true&locale=en" alt="adhyan-1404">
+
 
