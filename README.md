@@ -49,6 +49,6 @@
 <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" alt="anaconda" width="40" height="40" />
 </p>
 
-‎<p><img align="left" src="https://github-readme-stats-rho-three-80.vercel.app/api/top-langs?username=adhyan-1404&show_icons=true&locale=en&layout=donut&theme=dark&exclude_repo=github-readme-stats" alt="adhyan-1404" /></p>
+‎<p><img align="left" src="https://github-readme-stats-rho-three-80.vercel.app/api/top-langs?username=adhyan-1404&show_icons=true&locale=en&layout=donut&theme=dark&exclude_repo=github-readme-stats&hide=html&langs_count=5" alt="adhyan-1404" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-rho-three-80.vercel.app/api?username=adhyan-1404&show_icons=true&locale=en&theme=dark" alt="adhyan-1404" /></p>
 
