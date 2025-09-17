@@ -50,5 +50,5 @@
 </p>
 
 ‎<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhyan-1404&show_icons=true&locale=en&layout=compact&theme=dark" alt="adhyan-1404" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhyan-1404&show_icons=true&locale=en&theme=dark" alt="adhyan-1404" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-rho-three-80.vercel.app/api?username=adhyan-1404&show_icons=true&locale=en&theme=dark" alt="adhyan-1404" /></p>
 
