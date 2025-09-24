@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adhyan</h1>
-<h3 align="center">A beginner ML and AI Developer from India</h3>
+<h3 align="center">An Aspiring Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhyan-1404&label=Profile%20views&color=0e75b6&style=flat" alt="adhyan-1404" /> </p>
 
